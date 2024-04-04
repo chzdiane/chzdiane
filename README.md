@@ -4,8 +4,8 @@ Hi, I'm Dianella and I'm a systems engineer passionate about technology and lear
 I am part of the MedellinJS community organizing team. 💛
 
 Find me around the web 🌎:
-- LinkedIn <a href="https://www.linkedin.com/in/dianellarestrepochaverra/">LinkedIn</a> 💼
-- Instagram <a href="https://instagram/chzdiane"> Instagram</a> 📸
+- <a href="https://www.linkedin.com/in/dianellarestrepochaverra/">LinkedIn</a> 💼
+- <a href="https://instagram/chzdiane"> Instagram</a> 📸
 
 <!--
 **chzdiane/chzdiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
