@@ -1,6 +1,6 @@
 ### Hi I'm Dianella 👋👩‍💻
 
-Hi, I'm Dianella and I'm a systems engineer passionate about technology and learning. 📚💻
+I'm a systems engineer passionate about technology and learning. 📚💻 <br>
 I am part of the MedellinJS community organizing team. 💛
 
 Find me around the web 🌎:
